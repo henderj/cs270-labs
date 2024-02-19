@@ -1,6 +1,4 @@
-# PCA Implementation Comparison
-
-This document compares the results of a custom PCA implementation with the scikit-learn's PCA.
+# PCA Implementation
 
 ## Data
 
@@ -23,7 +21,7 @@ Output:
  [ 1.  -2.2]
  [ 0.5 -1. ]
  [-0.6  1. ]]
- ```
+```
 
 ## Scaled data
 
